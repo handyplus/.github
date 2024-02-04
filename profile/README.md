@@ -17,9 +17,11 @@
 
 #### 目前已加入 **handyplus** 社区的项目包括：
 
-| 顶级项目                                              | Github关注量                                                                                                               | 项目介绍                            | 加入时间    |
-|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------|
-| [FoliaLib](https://github.com/handyplus/FoliaLib) | [![star](https://img.shields.io/github/stars/handyplus/FoliaLib.svg)](https://github.com/handyplus/FoliaLib/stargazers) | 提供各种方法来让你的插件同时适配bukkit和folia核心。 | 2024.01 |
+| 顶级项目                                                              | Github关注量                                                                                                                               | 项目介绍                            | 加入时间    |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------|
+| [FoliaLib](https://github.com/handyplus/FoliaLib)                 | [![star](https://img.shields.io/github/stars/handyplus/FoliaLib.svg)](https://github.com/handyplus/FoliaLib/stargazers)                 | 提供各种方法来让你的插件同时适配bukkit和folia核心。 | 2024.01 |
+| [MythicMobsParent](https://github.com/handyplus/MythicMobsParent) | [![star](https://img.shields.io/github/stars/handyplus/MythicMobsParent.svg)](https://github.com/handyplus/MythicMobsParent/stargazers) | MythicMobs全版本兼容。                | 2024.01 |
+| [AttributeParent](https://github.com/handyplus/AttributeParent)   | [![star](https://img.shields.io/github/stars/handyplus/AttributeParent.svg)](https://github.com/handyplus/AttributeParent/stargazers)   | 多属性插件兼容。                        | 2024.01 |
 
 ## 加入组织
 
