@@ -20,6 +20,7 @@
 | 顶级项目                                                              | Github关注量                                                                                                                               | 项目介绍             | 最新版本                                                                                                                                                                             | 加入时间    |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | [FoliaLib](https://github.com/handyplus/FoliaLib)                 | [![star](https://img.shields.io/github/stars/handyplus/FoliaLib.svg)](https://github.com/handyplus/FoliaLib/stargazers)                 | bukkit和folia兼容。  | [![Maven Central](https://img.shields.io/maven-central/v/cn.handyplus.lib.adapter/FoliaLib.svg?label=Maven%20Central)](https://search.maven.org/search?q=FoliaLib)               | 2024.01 |
+| [SpigotBuilder](https://github.com/handyplus/SpigotBuilder)                 | [![star](https://img.shields.io/github/stars/handyplus/SpigotBuilder.svg)](https://github.com/handyplus/SpigotBuilder/stargazers)                 | 每日早8点自动构建最新Spigot核心。  | 自动构建1.21版本          | 2024.06 |
 
 ## 加入组织
 
