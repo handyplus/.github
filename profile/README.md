@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.fastmirror.net/s/2023/03/05/6404b4d2bf19d.png" height="220" alt="logo"/>
+<img src="https://ricedoc.handyplus.cn/img/logo.png" height="220" alt="logo"/>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 ## 我们的愿景
 
-让Minecraft插件走的更远。
+聚焦Minecraft插件,开发更加迅速高效。
 
 ## 社区项目
 
